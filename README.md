@@ -38,7 +38,7 @@ To Test Backend Code without Frontend ,I installed  Postman .
 
 The next step was the Frontend Creation
 
- To start out with the frontend of the To-do app, I used the create-react-app command to scaffold our app.in the todo directory.
+ To start out with the frontend of the To-do app, I used the create-react-app command to scaffold our app in the todo directory.
  
  
 To run my React app,i installed concurrently which is used to run more than one command simultaneously from the same terminal window and then install nodemon. In case there is any change in the server code, nodemon will restart it automatically and load the new changes.

@@ -5,17 +5,16 @@ I used mobaxterm to connect to EC2 Instances.
 I Created a new directory for my To-Do project called Todo.went ahead to initialise my project using  npm init, a new file named package.json was created.
 
 
-The next step ,i installed Expressjs
-Installed Expressjs with command npm install express then created a file index.js.
+The next step ,i installed Expressjs with command npm install express. I then went ahead to create a file called index.js.
 
-installed dotenv module and opened the index.js file with the command vim index.js to input code and then save.
+installed dotenv module and  my next step was to write into the index.js file with command vim index.js where i input and save code.
 
 
 i put in the Ip address of the instance on browser
 ![installed expressjs  browser](https://user-images.githubusercontent.com/94229949/162085376-2565b653-871d-4578-ac43-d0be77aeee9e.png)
 
 
-To create my To-do app ,App task will be associated with some particular endpoint and will use different standard HTTP request methods like POST,GET and DELETE.For each task, I need to create routes that will define various endpoints that the To-do app will depend on.
+To create my To-do app , App task needs to be associated with some particular endpoint and will use different standard HTTP request methods like POST,GET and DELETE for each task, I  created routes that will define various endpoints that the To-do app will depend on.
 
 I created a folder called routes and  a file called api.js in routes directory.
 

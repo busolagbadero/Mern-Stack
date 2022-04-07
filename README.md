@@ -2,15 +2,16 @@
 First step was to create a virtual server with Ubuntu Server OS.
 ![instance ubuntu](https://user-images.githubusercontent.com/94229949/162083495-4f338211-5218-4212-a274-fc21a16f43ab.png)
 I used mobaxterm to connect to EC2 Instance.
-I Created a new directory for my To-Do project called Todo.went ahead to initialise my project using  npm init, a new file named package.json was created.
+
+I Created a new directory for my To-Do project called Todo. I then  initialised my project using  npm init, a new file named package.json was created.
 
 
-The next step ,i installed Expressjs with command npm install express. I then went ahead to create a file called index.js.
+The next step ,i installed Expressjs with command npm install express, afteer succesfull installation ,i installed a file called index.js.
 
-installed dotenv module and  my next step was to write into the index.js file with command vim index.js where i input and save code.
+Next Step was to install dotenv module and  also write into the index.js file with command vim index.js where i input and save code.
 
 
-i put in the Ip address of the instance on browser
+I put in the Ip address of the instance on the  browser
 ![installed expressjs  browser](https://user-images.githubusercontent.com/94229949/162085376-2565b653-871d-4578-ac43-d0be77aeee9e.png)
 
 

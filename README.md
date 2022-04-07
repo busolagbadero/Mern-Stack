@@ -33,7 +33,12 @@ I added the connection string to access the database
 To start the server ,I ran command node index.js 
 ![database connected](https://user-images.githubusercontent.com/94229949/162092296-19167678-a1bd-42f8-b071-57f29fc65bd4.png)
 
-To Test Backend Code without Frontend  I installed used Postman .
+To Test Backend Code without Frontend ,I installed  Postman .
 ![get postman](https://user-images.githubusercontent.com/94229949/162092735-cb7eaba8-f522-44ef-9780-97f142100f71.png)
 ![real get postman](https://user-images.githubusercontent.com/94229949/162092807-37fc0b43-70bf-450d-8763-f79e6d4dd7eb.png)
 
+The next step was the Frontend Creation
+
+ To start out with the frontend of the To-do app, I used the create-react-app command to scaffold our app.in the todo directory.
+ 
+ 

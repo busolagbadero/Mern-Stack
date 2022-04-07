@@ -20,7 +20,7 @@ I created a folder called routes and  a file called api.js in routes directory.
 
 I opened api.js to input and save code for the app.
 
-I installed a database called mangodb to store data.I created a model to define the database schema which is important to define the fields stored in each Mongodb document. 
+I created a database called mangodb to store data.I created a model to define the database schema which is important to define the fields stored in each Mongodb document. 
 
 To create a Schema and a model, i installed mongoose which is a Node.js package that makes working with mongodb easier.i ran three commands mkdir models && cd models && touch todo.js and then VI into todo.js to input and save code.
 

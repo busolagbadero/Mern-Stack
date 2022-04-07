@@ -43,9 +43,9 @@ The next step was the Frontend Creation
  
 To run my React app,i installed concurrently which is used to run more than one command simultaneously from the same terminal window and then install nodemon. In case there is any change in the server code, nodemon will restart it automatically and load the new changes.
 
-To Configure Proxy in package.json ,I Changed directory to ‘client’ then Open the package.json file and add  the key value pair in the package.json file "proxy": "http://localhost:5000".to make it possible to access the application directly from the browser by simply calling the server url like http://localhost:5000 rather than always including the entire path like http://localhost:5000/api/todos. To run the app  i ran command npm run dev.
+To Configure Proxy in package.json ,I Changed directory to ‘client’ then Open the package.json file and add  the key value pair in the package.json file "proxy": "http://localhost:5000" to make it possible to access the application directly from the browser by simply calling the server url like http://localhost:5000 rather than always including the entire path like http://localhost:5000/api/todos. 
 
-To Create React Components ,I created a folder called components under the src folder which is under Todo/client. In the components folder i created three files Input.js, ListTodo.js and Todo.js. where i input and saved my codes.I installed Axios which is a Promise based HTTP client for the browser and node.js
+To Create React Components ,I created a folder called components under the src folder which is under Todo/client. In the components folder i created three files Input.js, ListTodo.js and Todo.js where i input and saved my codes.I also installed Axios which is a Promise based HTTP client for the browser and node.js
 
 In the src directory ,i opened the App.css and index.css to input and save code.
 
